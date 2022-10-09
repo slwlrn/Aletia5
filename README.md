@@ -15,3 +15,4 @@ Graficas parte 3
 https://github.com/slwlrn/Aletia5/blob/main/reg3.png
 https://github.com/slwlrn/Aletia5/blob/main/reg32.png
 https://github.com/slwlrn/Aletia5/blob/main/reg33.png
+https://github.com/slwlrn/Aletia5/blob/main/polinomial.png
