@@ -16,3 +16,9 @@ https://github.com/slwlrn/Aletia5/blob/main/reg3.png
 https://github.com/slwlrn/Aletia5/blob/main/reg32.png
 https://github.com/slwlrn/Aletia5/blob/main/reg33.png
 https://github.com/slwlrn/Aletia5/blob/main/polinomial.png
+
+
+DATOS:
+https://github.com/slwlrn/Aletia5/blob/main/BicycleWeather.csv
+https://github.com/slwlrn/Aletia5/blob/main/Fremont_Bridge_Bicycle_Counter.csv
+https://github.com/slwlrn/Aletia5/blob/main/insurance.csv
